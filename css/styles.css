@@ -1,5 +1,15 @@
 /* Your Website Styles */
-
+/*lettering*/
+.char1,
+.char3,
+.char5,
+.char7 {
+	color:red;
+}
+.word2,
+.word4{
+	color:blue;
+}
 
 /* Show Grid */
 .showgrid {
